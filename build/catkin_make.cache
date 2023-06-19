@@ -1,0 +1,2 @@
+template_gui_package
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/alijohn/Desktop/temp_for_gui/devel -DCMAKE_INSTALL_PREFIX=/home/alijohn/Desktop/temp_for_gui/install

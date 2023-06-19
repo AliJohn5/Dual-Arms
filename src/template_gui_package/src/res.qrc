@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/arm.jpeg</file>
+        <file>img/bac.jpg</file>
+        <file>img/bac2.png</file>
+        <file>img/bac3.png</file>
+        <file>img/bac4.png</file>
+        <file>img/back.jpg</file>
+        <file>img/cameraicon.jpg</file>
+        <file>img/hi.png</file>
+        <file>img/download.png</file>
+        <file>img/ali1.webp</file>
+        <file>img/ali2.jpeg</file>
+    </qresource>
+</RCC>

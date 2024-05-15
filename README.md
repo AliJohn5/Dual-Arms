@@ -16,9 +16,8 @@ sudo make insttall
 
 3. build the project
 ```bash
-mkdir ws && cd ws
-mkdir /src && cd /src
 git clone https://github.com/AliJohn5/Dual-Arms.git
+cd Dual-Arms
 catkin_make
 ```
 

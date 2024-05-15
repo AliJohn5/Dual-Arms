@@ -3,7 +3,7 @@
 ## by Ali Faisal Yousef
 ### install:
 
-1. make sure to install Qt5 libraries ans ROS noetic:
+1. make sure to install Qt5 libraries and ROS noetic:
 2. build libfreenect:
 
 ```bash

@@ -1,7 +1,9 @@
 # Dual-Arms
 Dual arms in robotic club Tishreen univercity
 
-build libfreenect:
+
+1. make sure to install Qt5 libraries:
+2. build libfreenect:
 
 ```bash
 git clone https://github.com/OpenKinect/libfreenect 
@@ -12,6 +14,18 @@ make
 sudo make insttall 
 ```
 
+3. build the project
+```bash
+mkdir ws && cd ws
+git clone https://github.com/AliJohn5/Dual-Arms.git
+catkin_make
+```
 
+3. run the project
+```bash
+roscore
+cd ws && source devel/setup.bash
+rosrun template_gui_package RCArms
+```
 
 

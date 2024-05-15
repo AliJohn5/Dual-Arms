@@ -1,6 +1,6 @@
 # Dual-Arms
-##Dual arms in robotic club Tishreen university
-##by Ali Faisal Yousef
+## Dual arms in robotic club Tishreen university
+## by Ali Faisal Yousef
 
 
 1. make sure to install Qt5 libraries:

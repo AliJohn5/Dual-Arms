@@ -24,7 +24,7 @@ catkin_make
 3. run the project
 ```bash
 roscore
-cd ws && source devel/setup.bash
+source devel/setup.bash
 rosrun template_gui_package RCArms
 ```
 

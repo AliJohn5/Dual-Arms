@@ -1,8 +1,0 @@
-prefix=/home/alijohn/Desktop/temp_for_gui/devel
-
-Name: template_gui_package
-Description: Description of template_gui_package
-Version: 0.0.0
-Cflags: -I/home/alijohn/Desktop/temp_for_gui/src/template_gui_package/include -I/usr/include/x86_64-linux-gnu/qt5/ -I/usr/include/x86_64-linux-gnu/qt5/QtWidgets -I/usr/include/x86_64-linux-gnu/qt5/QtGui -I/usr/include/x86_64-linux-gnu/qt5/QtCore -I/usr/lib/x86_64-linux-gnu/qt5//mkspecs/linux-g++ -I/usr/include/x86_64-linux-gnu/qt5/QtPrintSupport -I/usr/local/include/opencv4
-Libs: -L${prefix}/lib -ltemplate_gui_package /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.12.8 /usr/lib/x86_64-linux-gnu/libQt5PrintSupport.so.5.12.8 /usr/local/lib/libopencv_calib3d.so.4.7.0 /usr/local/lib/libopencv_core.so.4.7.0 /usr/local/lib/libopencv_dnn.so.4.7.0 /usr/local/lib/libopencv_features2d.so.4.7.0 /usr/local/lib/libopencv_flann.so.4.7.0 /usr/local/lib/libopencv_gapi.so.4.7.0 /usr/local/lib/libopencv_highgui.so.4.7.0 /usr/local/lib/libopencv_imgcodecs.so.4.7.0 /usr/local/lib/libopencv_imgproc.so.4.7.0 /usr/local/lib/libopencv_ml.so.4.7.0 /usr/local/lib/libopencv_objdetect.so.4.7.0 /usr/local/lib/libopencv_photo.so.4.7.0 /usr/local/lib/libopencv_stitching.so.4.7.0 /usr/local/lib/libopencv_video.so.4.7.0 /usr/local/lib/libopencv_videoio.so.4.7.0
-Requires: roscpp std_msgs sensor_msgs cv_bridge image_transport cv_bridge image_transport

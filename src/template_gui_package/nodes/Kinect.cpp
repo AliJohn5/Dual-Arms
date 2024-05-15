@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
-#include <libfreenect.h>
+#include "libfreenect/libfreenect.h"
 #include <pthread.h>
 #define CV_NO_BACKWARD_COMPATIBILITY
 #include <opencv4/opencv2/opencv.hpp>

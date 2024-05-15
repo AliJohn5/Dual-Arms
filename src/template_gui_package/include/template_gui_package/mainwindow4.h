@@ -32,7 +32,8 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <libfreenect.h>
+#include "libfreenect/libfreenect.h"
+
 #include <QTimer>
 #include<QProcess>
 #include <thread>

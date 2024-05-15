@@ -4,6 +4,10 @@
 ### install:
 
 1. make sure to install Qt5 libraries and ROS noetic:
+```bash
+https://stackoverflow.com/questions/48147356/install-qt-on-ubuntu
+https://wiki.ros.org/noetic/Installation/Ubuntu
+```
 2. build libfreenect:
 
 ```bash

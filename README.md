@@ -16,7 +16,7 @@ cd libfreenect
 mkdir build && cd build 
 cmake .. 
 make 
-sudo make insttall 
+sudo make install 
 ```
 
 3. build the project
